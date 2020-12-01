@@ -169,6 +169,7 @@ table {
 /* ---------PC-index---------- */
 .banner-index img{
     max-width: 100%;
+    object-fit: cover;
 }
 .banner-index-pad{
     display: none;
